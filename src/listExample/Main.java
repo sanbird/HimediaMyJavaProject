@@ -79,7 +79,7 @@ public class Main {
 			System.out.println("------------------------------------------");
 			System.out.print("선택 > ");
 
-//			int menu = scan.nextInt();
+
 
 			switch (Integer.parseInt(scan.nextLine().trim())) {
 			case 1: {
