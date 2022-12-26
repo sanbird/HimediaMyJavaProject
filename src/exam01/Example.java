@@ -16,6 +16,7 @@ public class Example {
 		
 		System.out.println("또 새로운 내용");
 		System.out.println("또또 새로운 내용");
+		System.out.println("새새로운 내용");
 
 	}
 
