@@ -86,7 +86,7 @@ public class Main {
 				System.out.println("이름, 국어, 영어, 수학 점수를 입력하세요.");
 				while (true) {
 					String s = scan.nextLine().trim();
-					System.out.println(">" + s + "<");
+//					System.out.println(">" + s + "<");
 					if (s.equals("q") || s.equals("Q")) {
 						break;
 					}
